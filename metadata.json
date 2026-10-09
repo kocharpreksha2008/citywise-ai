@@ -1,0 +1,6 @@
+{
+  "name": "CityWise AI",
+  "description": "Explore Smart. Travel Safe. An intelligent city exploration, safety monitoring, and trip planning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
